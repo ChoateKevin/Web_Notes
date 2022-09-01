@@ -16,4 +16,17 @@
 
     Block is going to be my header, while my navigation buttons are going to be inline within my header block. Dont for get block will move to the next line that is preceding it. 
 
-    **This is in reference to HTML and is not block and inline in regards to CSS. This is saying what type of element it is. So <em> is a inline element while <p> is a block element. **
+    *This is in reference to HTML and is not block and inline in regards to CSS. This is saying what type of element it is. So <em> is a inline element while <p> is a block element.*
+
+### Empty tags
+
+    MDN refers to them as empty tags, I had always heard of them as self closing. But it is any tag that does not require a closing tag. the most common being <img>
+
+### Attributes
+
+    This is stuff that can tag a tag. haha. It is stuff you add to an element that helps give it anything style, function, alt text. It is unique because it is not seen by the user. It is within the opening tag like so <p class="">. it has to have a "attribute" an "=" sign and a value within "". 
+
+    I have seen these used for a lot so far. I think they are inportant to modern web dev. 
+
+
+    
