@@ -28,5 +28,21 @@
 
     I have seen these used for a lot so far. I think they are inportant to modern web dev. 
 
+### Anatomy of HTML Document
 
+    DOCTYPE - back in the day it was a link to a set of rules that were to be folled if the website was to be considered "Good HTML". Now it is required to the website doesn't break.
+
+    HTML tag - is used to house everything, the root element. Everything falls under neath this element.
+
+    tags are elements?
+
+    Head tag - used for everything you want to include in the website that is not content. Things like css links, js links, meta data, stuff showed on google before you click on it.
+
+    Meta tag - holds meta data for the website.
+
+    Title tag - holds what title is displayed on the tab. 
+    
+    Body tag - holds ALL of the content of the page! 
+
+    
     
