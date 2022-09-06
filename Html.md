@@ -44,5 +44,9 @@
     
     Body tag - holds ALL of the content of the page! 
 
-    
+### Special Characters
+
+    When you want to use special characters like & or > you have to use their equivalent. &amp; or &lt; that way the browser doesn't think that its apart of the document.
+
+
     
